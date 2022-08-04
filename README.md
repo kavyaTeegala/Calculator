@@ -1,2 +1,2 @@
 # Calculator
-Created with CodeSandbox
+A simple web calculator
